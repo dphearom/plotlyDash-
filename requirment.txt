@@ -1,0 +1,3 @@
+y - number of journals
+x - number of uses and how many journals for each usage
+Hover - title of journals for that specific number of usage
